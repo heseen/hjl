@@ -37,9 +37,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 [廖雪峰](https://www.liaoxuefeng.com/)  
-[蚂蚁团建](http://www.himayi.cn/) 
+[蚂蚁团建](http://www.himayi.cn/)  
 [在线工具](http://www.atool9.com/)  
 [设计师网址导航](https://hao.uisdc.com/)  
-[程序员工具箱](https://tool.lu/) 
+[程序员工具箱](https://tool.lu/)  
 [iconfont](https://www.iconfont.cn/)  
-
+[Element](https://element.eleme.cn/#/zh-CN)  
+[Js教程](https://zh.javascript.info/)  
