@@ -11,7 +11,7 @@
 [hexo](https://hexo.io/zh-cn/)  
 [CTOLib码库](https://javascript.ctolib.com/)  
 [链闻](https://www.chainnews.com/)  
-[]()  
+[pyfiddle](https://pyfiddle.io/)PythonIDE  
 []()  
 []()  
 []()  
